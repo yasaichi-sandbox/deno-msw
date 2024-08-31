@@ -1,0 +1,13 @@
+{
+  "name": "deno-msw",
+  "version": "1.0.0",
+  "devDependencies": {
+    "msw": "^2.4.1"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "deno run -E src/index.ts"
+  }
+}
